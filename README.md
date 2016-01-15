@@ -1,4 +1,5 @@
 [![Project Status](http://opensource.box.com/badges/maintenance.svg)](http://opensource.box.com/badges)
+[![Docker Repository on Quay](https://quay.io/repository/freshbooks/anemometer/status "Docker Repository on Quay")](https://quay.io/repository/freshbooks/anemometer)
 
 Box Anemometer
 --------------
